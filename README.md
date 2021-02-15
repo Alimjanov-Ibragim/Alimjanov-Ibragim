@@ -2,9 +2,9 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alimjanov-Ibragim/Alimjanov-Ibragim)](https://www.linkedin.com/in/ibragim-alimjanov-20b8ab184/)
 
-> Любишь Open Source? Люби PRы отправлять 🛫!
+> Frontend React JS Developer 🚀!
 
-![Ibragim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alimjanov-Ibragim&count_private=true&show_icons=true&theme=vue&line_height=22)
+![Ibragim Alimjanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alimjanov-Ibragim&count_private=true&show_icons=true&theme=vue&line_height=22)
 <!--
 **Alimjanov-Ibragim/Alimjanov-Ibragim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
