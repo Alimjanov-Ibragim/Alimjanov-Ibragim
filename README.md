@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alimjanov-Ibragim/Alimjanov-Ibragim)](https://www.linkedin.com/in/ibragim-alimjanov-20b8ab184/)
 
-> Frontend React JS Developer 🚀!
+> Frontend React JS Developer 🚀
 
 ![Ibragim Alimjanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alimjanov-Ibragim&count_private=true&show_icons=true&theme=vue&line_height=22)
 <!--
