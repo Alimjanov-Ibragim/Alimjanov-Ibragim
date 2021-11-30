@@ -1,10 +1,6 @@
 ## Ibragim Alimjanov
 
-<!--
-[![Visits Badge](https://badges.pufler.dev/visits/Alimjanov-Ibragim/Alimjanov-Ibragim)](https://www.linkedin.com/in/ibragim-alimjanov-20b8ab184/)
--->
-
-👋 Hi, I'm Ibragim. I'm a Frontend Developer at ![KDB Bank](https://kdb.uz/en). Previously I have worked at ![Global Solutions where](https://global.uz/en/) I developed web apps for payments.
+👋 Hi, I'm Ibragim. I'm a Frontend Developer at ![KDB Bank](https://kdb.uz/en). Previously I have worked at ![Global Solutions](https://global.uz/en/) where I developed web apps for payments.
 
 ## About Me
 
