@@ -1,21 +1,17 @@
-## Hello World 👋
+## Ibragim Alimjanov
 
+<!--
 [![Visits Badge](https://badges.pufler.dev/visits/Alimjanov-Ibragim/Alimjanov-Ibragim)](https://www.linkedin.com/in/ibragim-alimjanov-20b8ab184/)
+-->
 
-> Frontend React JS Developer 🚀
+👋 Hi, I'm Ibragim. I'm a Frontend Developer at ![KDB Bank](https://kdb.uz/en). Previously I have worked at ![Global Solutions where](https://global.uz/en/) I developed web apps for payments.
+
+## About Me
+
+- 🔭 I’m currently working on: ![Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) so I can better understand web development.
+- 🌱 I’m currently learning in ![egghead.io](https://egghead.io/)
+- 📫 How to reach me: ![LinkedIN](https://www.linkedin.com/in/ibragim-alimjanov/) or ![Gmail](mailto:ballismlife@gmail.com)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love to play basketball.
 
 ![Ibragim Alimjanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alimjanov-Ibragim&count_private=true&show_icons=true&theme=vue&line_height=22)
-<!--
-**Alimjanov-Ibragim/Alimjanov-Ibragim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
