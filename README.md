@@ -11,3 +11,7 @@
 - ⚡ Fun fact: I love to play basketball.
 
 ![Ibragim Alimjanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alimjanov-Ibragim&count_private=true&show_icons=true&theme=vue&line_height=22)
+
+<a href="https://app.daily.dev/Ibragim24"><img src="https://api.daily.dev/devcards/339be90b7408499191739afdbd0a2b4d.png?r=yyj" height="300" alt="Ibragim Alimjanov's Dev Card"/></a>
+
+
