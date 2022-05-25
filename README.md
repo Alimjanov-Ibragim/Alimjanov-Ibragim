@@ -4,7 +4,6 @@
 🔭 I’m currently working on: Deep Dive Into Modern Web Development so I can better understand web development.
 🌱 I'm currently studying at egghead.io
 📫 How to reach me: LinkedIN or Gmail
-😄 Pronouns: he/his
 ⚡ Fun fact: I love to play basketball.
 
 ## 🌐Socials
