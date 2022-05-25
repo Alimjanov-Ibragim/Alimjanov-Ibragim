@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I'm Ibragim. I'm a Frontend Developer at KDB Bank. Previously I have worked at Global Solutions where I developed web apps for payments and at Solvers Group where I developed Wordpress sites.
+👋 Hi, I'm Ibragim. I'm a Frontend Developer at KDB Bank. Previously I worked at Global Solutions where I developed web apps for payments and at Solvers Group where I developed WordPress sites.
 
 🔭 I’m currently working on: Deep Dive Into Modern Web Development so I can better understand web development.
 🌱 I'm currently studying at egghead.io
